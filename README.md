@@ -1,17 +1,23 @@
 # GemSpark
 
-GemSpark is a SwiftUI-based iOS app that offers users an interactive and personalized chat experience with AI. Built as a mini project, it leverages the Gemini API to provide seamless, conversational interactions where the AI remembers previous responses, creating a more natural and engaging dialogue.
+GemSpark is a SwiftUI-based iOS app that offers users an interactive and personalized chat experience with AI. The AI also remembers previous responses, creating a more natural and engaging dialogue.
 
 # Features
 
-Interactive AI Chat: Communicate with the AI and enjoy a conversation where the AI retains context from previous responses.
-Gemini API Integration: Powered by the Gemini API, enabling smooth streaming of responses and personalized interactions.
-SwiftUI Interface: Built using SwiftUI, providing a sleek and modern user experience tailored for iOS devices.
-
-
+- Interactive AI Chat: Communicate with the AI and enjoy a conversation where the AI retains context from previous responses.
+- Gemini API Integration: Powered by the Gemini API, enabling smooth streaming of responses and personalized interactions.
+- Auto-Focusing Input: The text field automatically refocuses after each prompt.
+- Real-Time Scrolling: The conversation list auto-scrolls to always display the latest prompt, keeping the chat flow consistent and easy to follow.
+  
 # Requirements
 
 - Gemini API Key
+
+# How to generate API Key
+
+- Log in into Google AI Studio
+- Select "Get API key"
+- Simply click "Create API key" button to generate the key 
 
 # Setup
 
