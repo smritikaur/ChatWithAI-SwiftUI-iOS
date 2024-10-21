@@ -5,7 +5,6 @@ GemSpark is a SwiftUI-based iOS app that offers users an interactive and persona
 # Features
 
 - Interactive AI Chat: Communicate with the AI and enjoy a conversation where the AI retains context from previous responses.
-- Gemini API Integration: Powered by the Gemini API, enabling smooth streaming of responses and personalized interactions.
 - Auto-Focusing Input: The text field automatically refocuses after each prompt.
 - Real-Time Scrolling: The conversation list auto-scrolls to always display the latest prompt, keeping the chat flow consistent and easy to follow.
   
